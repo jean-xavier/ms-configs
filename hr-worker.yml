@@ -1,1 +1,2 @@
-test.config=My config value default
+test:
+  config: My config value default
